@@ -1,0 +1,9 @@
+# Python cache artifacts
+__pycache__/
+*.pyc
+
+# Local application file storage
+uploaded_files/
+
+# Local databases (optional, but keeps database clean)
+*.db
